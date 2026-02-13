@@ -2,7 +2,7 @@
 Class assignment
 
 - John John
-![image](image.jpg) 
+- ![image](image.jpg) 
 - 2100
 - Big large code project
 
